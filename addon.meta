@@ -1,0 +1,9 @@
+{
+	"Id" : "FriendCode",
+	"Name" : "好友码恢复",
+	"Author" : "神缘",
+	"Description" : "需要在可以显示好友代码的服务器使用",
+	"Version" : "1.0.0",
+	"Build" : 0,
+	"Dependency" : [ ]
+}
