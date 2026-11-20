@@ -18,16 +18,6 @@ NOS 的 `FriendListView.SetUpLobbyPlayerBar` 会把 `LobbyPlayerBar.SenderName`�
 
 把 `FriendCodeRestore.zip` 放进游戏目录的 `Addons/` 文件夹（不需要解压），启动游戏即可。
 
-也可以手动解压到 `Addons/FriendCodeRestore/`，结构：
-
-```
-Addons/
-└── FriendCodeRestore/
-    ├── addon.meta
-    └── Scripts/
-        └── FriendCodeRestore.cs
-```
-
 ## 依赖
 
 - 服务端需下发真实好友代码
